@@ -1,0 +1,24 @@
+table,td,th{
+    text-align: center;
+      border: 2px solid white;
+      border-collapse: collapse;
+     
+}
+
+.table table-striped table-dark{}
+table{
+    width:60%;
+    height: 60%;
+}
+th,td{
+    padding:3px;
+}
+th {
+  background-color:#2196f3 ;
+  color: white;
+}
+td{
+    
+    background-color:whitesmoke;
+    color:black;
+}
